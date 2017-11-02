@@ -18,8 +18,8 @@
 # Rubric for manual grading (90 points)
 
 * Code is correctly structured:(20 pts)                                    
-   * contains import statements, def with correct parameters,calls   (10 pts)
-   * correct order                                                   (10 pts)
+   * contains import statements, def with correct parameters,calls   (15 pts)
+   * correct order                                                   (5 pts)
 * Produced expected output for two triangles                         (20 pts)
 * Produced expected output for two rectangles                        (20 pts)
 * Function specific rubrics:
