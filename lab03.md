@@ -15,8 +15,9 @@
 * Sherry
 
 
-# Rubric for manual grading (90 points)
+# Rubric 
 
+* Correct syntax (autograded): (10 pts)
 * Code is correctly structured:(20 pts)                                    
    * contains import statements, def with correct parameters,calls   (15 pts)
    * correct order                                                   (5 pts)
