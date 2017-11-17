@@ -5,10 +5,6 @@
 	* contains "if __name__ == "__main__":" statement (5 pts)
 * Produced expected output for trees (20 pts, partial credit 10 points)
 * Produced expected output for hut  (20 pts, partial credit 10 points)
-* Produced more than 5 trees instead of a single tree	(10 pts)
-* Produced trees using different sizes and different shades (10 pts)
-* Produced a sequence of five huts instead of less or more huts (10 pts)
-* Placed huts randomly along a horizontal line (10 pts)
 
 * Function specific rubrics:
 	* drawTree():
