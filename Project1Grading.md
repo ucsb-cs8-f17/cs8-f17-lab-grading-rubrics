@@ -1,10 +1,11 @@
 # Rubrics
-* Overall style and structure:(10 pts)  
+* Overall style and structure:(20 pts)  
 	* Top down design approach - modular implementation 4
 	* Values are not hardcoded (4 pts)
-	* contains "if __name__ == "__main__":" statement (2 pt)
+	* Contains "if __name__ == "__main__":" statement (2 pt)
 		* If they don't call functions from main function
 		* If they didn't call drawScene() from main function
+	* Contains function definitions of drawTree(), drawForest(), drawHut, drawVillage() (10 pts)
 Based on drawing uploaded to gauchospace
 * Produced expected output for trees (20 pts, partial credit 10 points)
 * Produced expected output for hut  (20 pts, partial credit 10 points)
