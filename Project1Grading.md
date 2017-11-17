@@ -1,6 +1,6 @@
 # Rubrics
-*Correct syntax(autograded): (10 pts)
-*Code is correctly structured:(10 pts)
+* Correct syntax(autograded): (10 pts)
+* Code is correctly structured:(10 pts)
 	* contains import statements (5 pts)
 	* contains "if __name__ == "__main__":" statement (5 pts)
 * Produced expected output for trees (20 pts, partial credit 10 points)
@@ -9,3 +9,4 @@
 * Produced expected output for hut	(20 pts, partial credit 10 points)
 * Produced a sequence of five huts instead of less or more huts (10 pts)
 * Placed huta randomly along a horizontal line (10 pts)
+* Coding style: Just feedback
