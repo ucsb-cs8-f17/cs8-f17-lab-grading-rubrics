@@ -9,7 +9,7 @@
 Based on drawing uploaded to gauchospace
 * Produced expected output for trees (20 pts, partial credit 10 points)
 * Produced expected output for hut  (20 pts, partial credit 10 points)
-* Used the random module appropriately (20)  ( 10 pts for tree and 10 pts for hut)
+* Used the random module appropriately (10)  ( 5 pts for tree and 5 pts for hut)
 
 * Extra credit: (10pts)
 	* This is extra work. Any non-trivial work would be fine. The standard of non-trivial is totally up to whoever grades homework
