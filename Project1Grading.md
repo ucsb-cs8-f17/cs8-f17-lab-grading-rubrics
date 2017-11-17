@@ -1,5 +1,4 @@
 # Rubrics
-* Correct syntax(autograded): (10 pts)
 * Overall style and structure:(5 pts)  
 
         * Top down design approach - modular implementation 2
@@ -9,8 +8,8 @@
 		* If they don't call functions from main function
 		* If they didn't call drawScene() from main function
 Based on drawing uploaded to gauchospace
-* Produced expected output for trees (20 pts, partial credit 10 points)
-* Produced expected output for hut  (20 pts, partial credit 10 points)
+* Produced expected output for trees (10 pts, partial credit 5 points)
+* Produced expected output for hut  (10 pts, partial credit 5 points)
 * Drawing is cluttered (5pts)
 * Used the random module appropriately (10)  ( 5 pts for tree and 5 pts for hut)
 
