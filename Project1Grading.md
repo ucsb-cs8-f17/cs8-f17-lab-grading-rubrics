@@ -8,8 +8,8 @@
 		* If they don't call functions from main function
 		* If they didn't call drawScene() from main function
 Based on drawing uploaded to gauchospace
-* Produced expected output for trees (10 pts, partial credit 5 points)
-* Produced expected output for hut  (10 pts, partial credit 5 points)
+* Produced expected output for trees (20 pts, partial credit 10 points)
+* Produced expected output for hut  (20 pts, partial credit 10 points)
 * Drawing is cluttered (5pts)
 * Used the random module appropriately (10)  ( 5 pts for tree and 5 pts for hut)
 
@@ -31,11 +31,11 @@ Based on drawing uploaded to gauchospace
 		* Places huts randomly along a horizontal line
 
 
+
 * Extra credit: (10pts)
 	* This is extra work. Any non-trivial work would be fine. The standard of non-trivial is totally up to whoever grades homework
 	Trivial : 2 pts
 	Medium:     5 pts
 	Spectacular: 10 ots
-
 
 
