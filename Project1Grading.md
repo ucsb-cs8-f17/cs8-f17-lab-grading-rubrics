@@ -3,6 +3,7 @@
 * Code is correctly structured:(10 pts)
 	* contains import statements (5 pts)
 	* contains "if __name__ == "__main__":" statement (5 pts)
+		* If they don't call functions from main function, deduct 2 points
 * Produced expected output for trees (20 pts, partial credit 10 points)
 * Produced expected output for hut  (20 pts, partial credit 10 points)
 
