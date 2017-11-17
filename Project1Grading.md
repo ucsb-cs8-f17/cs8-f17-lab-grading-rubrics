@@ -1,6 +1,5 @@
 # Rubrics
 *Correct syntax(autograded): (10 pts)
-*Checkpoint:	(20 pts)
 *Code is correctly structured:(10 pts)
 	* contains import statements (5 pts)
 	* contains "if __name__ == "__main__":" statement (5 pts)
