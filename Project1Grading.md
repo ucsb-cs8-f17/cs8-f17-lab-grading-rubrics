@@ -1,7 +1,7 @@
 # Rubrics
 * Overall style and structure:(5 pts)  
-        * Top down design approach - modular implementation 2
-        * Values are not hardcoded (2 pts)
+	* Top down design approach - modular implementation 2
+	* Values are not hardcoded (2 pts)
 	* contains "if __name__ == "__main__":" statement (1 pt)
 		* If they don't call functions from main function
 		* If they didn't call drawScene() from main function
